@@ -1,1 +1,6 @@
 Añadir su instagram pero está abandonado
+
+
+git add .
+git commit -m "descripción del cambio"
+git push
